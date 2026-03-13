@@ -1,0 +1,7 @@
+{
+  "name": "ZeroWait Doctor Assistant",
+  "description": "A hands-free, voice-activated clinic check-in kiosk powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
